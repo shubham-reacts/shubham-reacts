@@ -20,7 +20,7 @@ Most of what I've learned the hard way is on my blog: **[shubhamjha.com](https:/
 <!-- These can be updated manually or automated with a GitHub Action -->
 - [How to Master React & Next.js in 2026](https://shubhamjha.com/blog/how-to-master-react-nextjs?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=recent_writing)
 - [React Hooks + TypeScript — the production patterns](https://shubhamjha.com/blog/react-hooks-typescript-2026?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=recent_writing)
-- [Why your LCP is still failing after fixing the images]([https://shubhamjha.com/blog/core-web-vitals-nextjs-optimization](https://shubhamjha.com/blog/core-web-vitals-nextjs-optimization?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=recent_writing)
+- [Why your LCP is still failing after fixing the images]([https://shubhamjha.com/blog/core-web-vitals-nextjs-optimization](https://shubhamjha.com/blog/core-web-vitals-nextjs-optimization?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=recent_writing))
 
 ---
 
