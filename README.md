@@ -1,44 +1,46 @@
-## 👋 Hi there, I'm Shubham.
+# Hi, I'm Shubham. 👋
 
-## 📂 Programming languages & other
+Software engineer with 6+ years shipping products that dont break in production.
 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I write about the things that actually break at scale — not the happy-path tutorials.  
+Most of what I've learned the hard way is on my blog: **[shubhamjha.com](https://shubhamjha.com)**
 
- 
-## 🧩 Frameworks
+---
 
-  ![ReactJS](https://img.shields.io/badge/react-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+## What I'm working on
 
+- **[Folio](https://folio.shubhamjha.com)** — a privacy-first browser book reader. Reads PDFs and EPUBs with no account, no upload, no tracking. Everything stays on your device.
+- **[Sticky Notes](https://note.shubhamjha.com)** — a no-friction notes app for daily use. Open it, write, done.
+- Writing production-focused guides on React, Next.js, and TypeScript at [shubhamjha.com/blog](https://shubhamjha.com/blog)
 
-## 📖 Editors
+---
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## Recent writing
 
+<!-- These can be updated manually or automated with a GitHub Action -->
+- [How to Master React & Next.js in 2026](https://shubhamjha.com/blog/how-to-master-react-nextjs-2026)
+- [React Hooks + TypeScript — the production patterns](https://shubhamjha.com/blog/react-hooks-typescript-2026)
+- [Why your LCP is still failing after fixing the images](https://shubhamjha.com/blog/core-web-vitals-nextjs-optimization)
+
+---
+
+## Stack
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DBFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+## Find me
+
+- 𝕏 → [@shubhamJReacts](https://x.com/shubhamJReacts) — production React takes, daily
+- LinkedIn → [linkedin.com/in/shubham-reacts](https://linkedin.com/in/shubham-reacts)
+- Blog → [shubhamjha.com](https://shubhamjha.com)
+
+---
 <p align="left">
-  <img align="center" src="https://komarev.com/ghpvc/?username=julian-at&style=for-the-badge&color=blueviolet" alt="julian-at"/>
+  <img align="center" src="https://komarev.com/ghpvc/?username=shubham-reacts&style=for-the-badge&color=blueviolet" alt="shubham jha"/>
 </p>
-
-<!--
-  ![NestJS](	https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  ![C++](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=.net&logoColor=white&color=512BD4)
-
-**shbhmj/shbhmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
