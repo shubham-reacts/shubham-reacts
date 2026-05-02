@@ -9,18 +9,18 @@ Most of what I've learned the hard way is on my blog: **[shubhamjha.com](https:/
 
 ## What I'm working on
 
-- **[Folio](https://folio.shubhamjha.com)** — a privacy-first browser book reader. Reads PDFs and EPUBs with no account, no upload, no tracking. Everything stays on your device.
-- **[Sticky Notes](https://note.shubhamjha.com)** — a no-friction notes app for daily use. Open it, write, done.
-- Writing production-focused guides on React, Next.js, and TypeScript at [shubhamjha.com/blog](https://shubhamjha.com/blog)
+- **[Folio](https://folio.shubhamjha.com?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=folio)** — a privacy-first browser book reader. Reads PDFs and EPUBs with no account, no upload, no tracking. Everything stays on your device.
+- **[Sticky Notes](https://note.shubhamjha.com?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=sticky-notes)** — a no-friction notes app for daily use. Open it, write, done.
+- Writing production-focused guides on React, Next.js, and TypeScript at [shubhamjha.com/blog](https://shubhamjha.com/blog?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=blog-link)
 
 ---
 
 ## Recent writing
 
 <!-- These can be updated manually or automated with a GitHub Action -->
-- [How to Master React & Next.js in 2026](https://shubhamjha.com/blog/how-to-master-react-nextjs-2026)
-- [React Hooks + TypeScript — the production patterns](https://shubhamjha.com/blog/react-hooks-typescript-2026)
-- [Why your LCP is still failing after fixing the images](https://shubhamjha.com/blog/core-web-vitals-nextjs-optimization)
+- [How to Master React & Next.js in 2026](https://shubhamjha.com/blog/how-to-master-react-nextjs?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=recent_writing)
+- [React Hooks + TypeScript — the production patterns](https://shubhamjha.com/blog/react-hooks-typescript-2026?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=recent_writing)
+- [Why your LCP is still failing after fixing the images]([https://shubhamjha.com/blog/core-web-vitals-nextjs-optimization](https://shubhamjha.com/blog/core-web-vitals-nextjs-optimization?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=recent_writing)
 
 ---
 
