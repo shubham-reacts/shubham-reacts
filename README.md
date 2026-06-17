@@ -11,7 +11,7 @@ Most of what I've learned the hard way is on my blog: **[shubhamjha.com](https:/
 
 - **[Folio](https://folio.shubhamjha.com?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=folio)** — a privacy-first browser book reader. Reads PDFs and EPUBs with no account, no upload, no tracking. Everything stays on your device.
 - **[Sticky Notes](https://note.shubhamjha.com?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=sticky-notes)** — a no-friction notes app for daily use. Open it, write, done.
-- Writing production-focused guides on React, Next.js, and TypeScript at [shubhamjha.com/blog](https://shubhamjha.com/blog?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=blog-link)
+- Writing production-focused guides on React, Next.js, and TypeScript at [shubhamjha.com](https://shubhamjha.com?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=blog-link)
 
 ---
 
@@ -36,7 +36,7 @@ Most of what I've learned the hard way is on my blog: **[shubhamjha.com](https:/
 
 ## Find me
 
-- 𝕏 → [@shubhamJReacts](https://x.com/shubhamJReacts) — production React takes, daily
+- 𝕏 → [@shubhamJDev](https://x.com/shubhamJDev) — production React takes, daily
 - LinkedIn → [linkedin.com/in/shubham-reacts](https://linkedin.com/in/shubham-reacts)
 - Blog → [shubhamjha.com](https://shubhamjha.com)
 
