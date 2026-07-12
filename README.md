@@ -37,7 +37,7 @@ Most of what I've learned the hard way is on my blog: **[shubhamjha.com](https:/
 
 ## Find me
 
-- 𝕏 → [@shubhamJDev](https://x.com/shubhamJDev) — production React takes, daily
+- 𝕏 → [@shubhamJDev](https://x.com/shubhamJhaDev) — production React takes, daily
 - LinkedIn → [linkedin.com/in/shubham-reacts](https://linkedin.com/in/shubham-reacts)
 - Blog → [shubhamjha.com](https://shubhamjha.com)
 
