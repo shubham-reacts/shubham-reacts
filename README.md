@@ -12,7 +12,6 @@ Most of what I've learned the hard way is on my blog: **[shubhamjha.com](https:/
   No account, no server, everything stays on your device.
 - **[Folio](https://folio.shubhamjha.com?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=folio)** — a privacy-first browser book reader. Reads PDFs and EPUBs with no account, no upload, no tracking. Everything stays on your device.
 - **[Sticky Notes](https://note.shubhamjha.com?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=sticky-notes)** — a no-friction notes app for daily use. Open it, write, done.
-- Writing production-focused guides on React, Next.js, and TypeScript at [shubhamjha.com](https://shubhamjha.com?utm_source=github&utm_medium=profile&utm_campaign=readme&utm_content=blog-link)
 
 ---
 
